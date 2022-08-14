@@ -46,7 +46,7 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 name: Full-year calendar
-uses: broprims/boombest@latest
+uses: broprims/donation-app@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.METRICS_TOKEN }}
