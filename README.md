@@ -45,17 +45,14 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
-
-name: Recent activity charts
-uses: broprims/broprims@latest
+name: Full-year calendar
+uses: broprims/boombest@latest
 with:
-  filename: metrics.plugin.habits.charts.svg
+  filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
-  plugin_habits: yes
-  plugin_habits_facts: no
-  plugin_habits_charts: yes
-  config_timezone: Indonesia/Makassar
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
 
       
