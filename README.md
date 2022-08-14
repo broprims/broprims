@@ -42,7 +42,6 @@
 | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&include_all_commits=true&hide_border=true" alt="Prima's github stats" /></a> | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broprims&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
  
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 
 
