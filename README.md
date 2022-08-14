@@ -45,17 +45,13 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
-
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broprims&theme=default)
-|
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=broprims&theme=default)
-|
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=broprims&theme=default)
-|
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=broprims&theme=default)
-|
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broprims&theme=default&utcOffset=8)
-
+</div>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
