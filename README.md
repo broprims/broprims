@@ -43,6 +43,7 @@
 | ------------- | ------------- |
  
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 
       
