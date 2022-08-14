@@ -23,30 +23,16 @@
 
 </details>
 
-<!-- ### My Github stats
-
-<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=broprims&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)] -->
-
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" /></p> -->
-  
-<!--  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&count_private=true" alt="spiderpig86" />
-
- <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broprims&layout=compact&hide_title=1&card_width=450" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript</small>
-  <br />
-  <br />
- </div> -->
+<!-- ### My Github stats -->
  
-| <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&include_all_commits=true&hide_border=true" alt="Prima's github stats" /></a> | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broprims&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- | -->
+<!-- | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&include_all_commits=true&hide_border=true" alt="Prima's github stats" /></a> | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broprims&layout=compact&hide_border=true" /></a> | -->
+| ------------- | ------------- |
  
 
 
 <div align="center">
 <p>
-## My Other Statistic
+My Other Statistic
 </p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broprims&theme=default)
