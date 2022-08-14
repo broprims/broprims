@@ -23,7 +23,7 @@
 
 </details>
 
-### My Github stats
+<!-- ### My Github stats
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=broprims&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)] -->
 
@@ -40,14 +40,13 @@
  </div> -->
  
 | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=broprims&show_icons=true&include_all_commits=true&hide_border=true" alt="Prima's github stats" /></a> | <a href="https://github.com/broprims/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broprims&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
  
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 <div align="center">
 <p>
-My Other Statistic
+## My Other Statistic
 </p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broprims&theme=default)
@@ -57,6 +56,9 @@ My Other Statistic
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broprims&theme=default&utcOffset=8)
   
 </div>
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
+
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
