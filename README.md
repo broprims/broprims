@@ -46,6 +46,18 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 
+name: Recent activity charts
+uses: broprims/broprims@latest
+with:
+  filename: metrics.plugin.habits.charts.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_habits: yes
+  plugin_habits_facts: no
+  plugin_habits_charts: yes
+  config_timezone: Indonesia/Makassar
+
+
       
   
   
