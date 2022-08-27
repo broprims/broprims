@@ -2,7 +2,7 @@
 <p align="center">
 <!--   <a href="https://blog.athulcyriac.in">Blog</a> • -->
 <!--   <a href="https://twitter.com/athulcajay">Twitter</a> -->
-<a href="https://instagram.com/p_r_i__m_a" target="_blank" >Instagram</a>
+<a href="https://www.instagram.com/s_a__t_r_i_a/" target="_blank" >Instagram</a>
 </p>
 
 > 👨🏻‍💻 Full Stack Web Developer
