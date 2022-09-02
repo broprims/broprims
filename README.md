@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **PHP(Laravel), Javascript and Algorithms**
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me: [@s_a__t_r_i_a](https://www.instagram.com/s_a__t_r_i_a/) on Instagram
-- ❤️ **You**
+- ❤️ **My Self**
 
 
 
