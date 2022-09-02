@@ -43,7 +43,9 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
+<div align="center">
 <img width="903" alt="tes" src="https://user-images.githubusercontent.com/69377855/188060797-a316f4c8-b215-4695-af97-04133b7ed65d.png">
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
