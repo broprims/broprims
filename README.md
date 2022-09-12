@@ -44,7 +44,7 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
 <div align="center">
-  ![Screen Shot 2022-09-13 at 00 14 30](https://user-images.githubusercontent.com/69377855/189704685-1e9a3f4d-ffd7-4db2-8ef2-42d58afde7a2.png)
+  <img src="https://user-images.githubusercontent.com/69377855/189705095-582f7d25-638d-4864-a44c-a2d37ae3bc8e.png"/>
 </div>
 
 <p align="center">
