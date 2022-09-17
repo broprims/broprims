@@ -15,7 +15,7 @@
 ### Other Info
 - 🔭 I’m working on **Gana IT Consultant in Bali**
 - 🌱 I’m currently learning **PHP(Laravel), Javascript and Algorithms**
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel & PHP**
 - 📫 How to reach me: [@s_a__t_r_i_a](https://www.instagram.com/s_a__t_r_i_a/) on Instagram
 - ❤️ **My Self**
 
