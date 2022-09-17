@@ -16,6 +16,7 @@
 - ⛏ Interest: Vue/React
 
 ### Other Info
+- 🇲🇨 I'm from Indonesia
 - 🔭 I’m working on **Gana IT Consultant in Denpasar, Bali**
 - 🌱 I’m currently learning **PHP(Laravel), Javascript(ReactJS) and Algorithms**
 - 💬 Ask me about **Laravel & PHP**
