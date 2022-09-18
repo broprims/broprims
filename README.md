@@ -6,7 +6,7 @@
 </p>
 
 
-### My Job rn
+### My Job RN
 
 > 👨🏻‍💻 Full Stack Web Developer
 
