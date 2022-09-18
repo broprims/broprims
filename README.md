@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm PRIMA.</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> Hello! I'm PRIMA.</h2>
 <p align="center">
 <!--   <a href="https://blog.athulcyriac.in">Blog</a> • -->
 <!--   <a href="https://twitter.com/athulcajay">Twitter</a> -->
