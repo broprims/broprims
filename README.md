@@ -6,13 +6,13 @@
   <img src="https://user-images.githubusercontent.com/69377855/190953392-bb1894fb-6983-49d7-8e78-3ec3dc4bb139.jpg">
 </div>
 
-<!--
+
 <p align="center">
 <!--   <a href="https://blog.athulcyriac.in">Blog</a> • -->
 <!--   <a href="https://twitter.com/athulcajay">Twitter</a> -->
-<a href="https://www.instagram.com/s_a__t_r_i_a/" target="_blank" >Instagram</a>
+<!--  <a href="https://www.instagram.com/s_a__t_r_i_a/" target="_blank" >Instagram</a> -->
 </p>
--->
+
 
 
 ### My Job RN
