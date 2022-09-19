@@ -3,7 +3,7 @@
 <!-- <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm PRIMA.</h2> -->
 
 <div align="center">
-  <img width="902" alt="Screen Shot 2022-09-18 at 21 59 10" src="https://user-images.githubusercontent.com/69377855/190910751-4fbee650-c989-4ce7-815c-b3fc0fac1bdf.png">
+  <img src="https://user-images.githubusercontent.com/69377855/190953392-bb1894fb-6983-49d7-8e78-3ec3dc4bb139.jpg">
 </div>
 
 
