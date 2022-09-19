@@ -1,4 +1,12 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm PRIMA.</h2>
+
+
+<!-- <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm PRIMA.</h2> -->
+
+<div align="center">
+  <img width="902" alt="Screen Shot 2022-09-18 at 21 59 10" src="https://user-images.githubusercontent.com/69377855/190910751-4fbee650-c989-4ce7-815c-b3fc0fac1bdf.png">
+</div>
+
+
 <p align="center">
 <!--   <a href="https://blog.athulcyriac.in">Blog</a> • -->
 <!--   <a href="https://twitter.com/athulcajay">Twitter</a> -->
