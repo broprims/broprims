@@ -56,7 +56,7 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=github-light&hide_border=true)](https://github.com/broprims)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&bg_color=ffffff&color=000000&line=36dd52&point=006110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&bg_color=ffffff&color=000000&line=36dd52&point=006110&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/69377855/191059827-e7464f93-07d9-4159-b274-60219d585866.png">
