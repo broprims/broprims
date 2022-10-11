@@ -60,7 +60,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&bg_color=ffffff&color=000000&line=36dd52&point=008516&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69377855/194766203-6699bc27-c0aa-4af7-a86e-9d1343209fcb.png">
+  <img src="https://user-images.githubusercontent.com/69377855/195141883-4c0ae7b9-70a1-48cc-866a-9a31f3a12c4d.png">
 </div>
 
 <p align="center">
