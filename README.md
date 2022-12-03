@@ -59,6 +59,9 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&bg_color=ffffff&color=000000&line=36dd52&point=008516&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=broprims&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/69377855/195141883-4c0ae7b9-70a1-48cc-866a-9a31f3a12c4d.png">
 </div>
