@@ -64,7 +64,7 @@
  -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69377855/195141883-4c0ae7b9-70a1-48cc-866a-9a31f3a12c4d.png">
+  <img src="https://user-images.githubusercontent.com/69377855/215986749-f1654f16-648d-4f01-9cd8-c0f003b018a3.png">
 </div>
 
 <p align="center">
