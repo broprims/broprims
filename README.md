@@ -30,6 +30,7 @@
 - 💻 I’m currently learning **PHP(Laravel), Javascript(ReactJS), Algorithms and Analyst Data**
 - 💬 Ask me about **Laravel & PHP**
 - 📫 How to reach me: [@s_a__t_r_i_a](https://www.instagram.com/s_a__t_r_i_a/) on Instagram
+- 📫 Or reach me: [Satria Prima Wijaya](https://www.linkedin.com/in/satria-prima-wijaya/) on LinkedIn
 - ❤️ **My Self**
 
 
