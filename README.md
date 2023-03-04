@@ -13,7 +13,7 @@
 <!--  <a href="https://www.instagram.com/s_a__t_r_i_a/" target="_blank" >Instagram</a> -->
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bropims&label=Profile%20views&color=0e75b6&style=flat" alt="bropims" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bropims&label=Profile%20views&color=0e75b6&style=flat" alt="bropims" /> </p> -->
 
 
 ### My Job RN
