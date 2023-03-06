@@ -18,7 +18,7 @@
 
 ### My Job RN
 
-> 👨🏻‍💻 Full Stack Web Developer
+> 👨🏻‍💻 Data/System Analyst, System Implementor, & Full Stack Web Developer
 
 ### Tech Stack
 
